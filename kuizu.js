@@ -74,3 +74,5 @@ var qa = [
     var question = document.getElementById('question');
     question.innerHTML = (count + 1) + '問目：' + qa[count][0];
   }
+
+
